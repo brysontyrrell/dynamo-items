@@ -1,0 +1,5 @@
+.idea/
+.venv/
+build/
+dist/
+dynamo_items.egg-info/
